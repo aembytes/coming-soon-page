@@ -16,7 +16,7 @@ A simple, animated, and responsive "Coming Soon" landing page template created b
 
 ## ⚖️ License
 
-This project is licensed under the **AemBytes Custom MIT License**.
+This project is licensed under the **AemBytes Public Use License (APUL)**.
 
 > ✅ You may freely use and customize this template.  
 > ❌ You may **NOT** remove the “Designed & Developed by AemBytes” credit in the footer.  
