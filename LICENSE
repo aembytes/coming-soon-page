@@ -1,0 +1,68 @@
+AemBytes Public Use License (APUL)  
+Version 1.0 — July 26, 2025
+
+Copyright (c) 2025 AemBytes Technologies
+
+Permission is hereby granted, free of charge, to any individual or organization
+(the “User”) to use, copy, modify, and deploy this software (the “Software”) for personal,
+educational, and commercial purposes, under the following conditions:
+
+---
+
+1. Permitted Use
+
+- The Software may be used, modified, and deployed freely for both personal and commercial use.
+- Users may adapt and distribute the Software in original or modified form.
+- Users must retain this license when redistributing the Software.
+
+---
+
+2. Branding Requirement
+
+**This free version requires visible attribution to remain intact** on all public/live deployments:
+
+> Designed & Developed by [AemBytes](https://aembytes.com)
+
+This branding:
+- Must be **clearly visible** in the website footer or equivalent place.
+- Must **link to** https://aembytes.com
+- Must **not be hidden, altered, or removed** in any free or redistributed usage.
+
+---
+
+3. White-Label Licensing
+
+If the User wishes to:
+- Remove or replace the AemBytes branding,
+- Offer it as part of a template, theme, or SaaS builder,
+- Resell modified versions as a service or product,
+
+They must obtain a valid **White-Label License** from AemBytes Technologies.
+
+📩 Request at: hello@aembytes.com  
+🌐 Website: https://aembytes.com
+
+---
+
+4. Prohibited Use
+
+The User must NOT:
+- Claim ownership of the original Software
+- Remove or hide the branding in free usage
+- Sell the Software as a stand-alone product/template without license
+- Violate local laws while using this Software
+
+---
+
+5. Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+This license is governed by and construed under the laws of India.
+
